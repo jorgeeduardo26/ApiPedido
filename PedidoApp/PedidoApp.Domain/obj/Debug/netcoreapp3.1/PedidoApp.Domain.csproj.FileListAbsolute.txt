@@ -1,0 +1,9 @@
+C:\Users\Eduardo\source\repos\PedidoApp\PedidoApp.Domain\bin\Debug\netcoreapp3.1\PedidoApp.Domain.deps.json
+C:\Users\Eduardo\source\repos\PedidoApp\PedidoApp.Domain\bin\Debug\netcoreapp3.1\PedidoApp.Domain.dll
+C:\Users\Eduardo\source\repos\PedidoApp\PedidoApp.Domain\bin\Debug\netcoreapp3.1\PedidoApp.Domain.pdb
+C:\Users\Eduardo\source\repos\PedidoApp\PedidoApp.Domain\obj\Debug\netcoreapp3.1\PedidoApp.Domain.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\PedidoApp\PedidoApp.Domain\obj\Debug\netcoreapp3.1\PedidoApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\PedidoApp\PedidoApp.Domain\obj\Debug\netcoreapp3.1\PedidoApp.Domain.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\PedidoApp\PedidoApp.Domain\obj\Debug\netcoreapp3.1\PedidoApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\PedidoApp\PedidoApp.Domain\obj\Debug\netcoreapp3.1\PedidoApp.Domain.dll
+C:\Users\Eduardo\source\repos\PedidoApp\PedidoApp.Domain\obj\Debug\netcoreapp3.1\PedidoApp.Domain.pdb

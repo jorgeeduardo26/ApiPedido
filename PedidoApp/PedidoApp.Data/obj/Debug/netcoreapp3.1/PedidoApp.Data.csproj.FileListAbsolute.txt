@@ -1,0 +1,12 @@
+C:\Users\Eduardo\source\repos\PedidoApp\PedidoApp.Data\bin\Debug\netcoreapp3.1\PedidoApp.Data.deps.json
+C:\Users\Eduardo\source\repos\PedidoApp\PedidoApp.Data\bin\Debug\netcoreapp3.1\PedidoApp.Data.dll
+C:\Users\Eduardo\source\repos\PedidoApp\PedidoApp.Data\bin\Debug\netcoreapp3.1\PedidoApp.Data.pdb
+C:\Users\Eduardo\source\repos\PedidoApp\PedidoApp.Data\obj\Debug\netcoreapp3.1\PedidoApp.Data.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\PedidoApp\PedidoApp.Data\obj\Debug\netcoreapp3.1\PedidoApp.Data.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\PedidoApp\PedidoApp.Data\obj\Debug\netcoreapp3.1\PedidoApp.Data.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\PedidoApp\PedidoApp.Data\obj\Debug\netcoreapp3.1\PedidoApp.Data.dll
+C:\Users\Eduardo\source\repos\PedidoApp\PedidoApp.Data\obj\Debug\netcoreapp3.1\PedidoApp.Data.pdb
+C:\Users\Eduardo\source\repos\PedidoApp\PedidoApp.Data\obj\Debug\netcoreapp3.1\PedidoApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\PedidoApp\PedidoApp.Data\bin\Debug\netcoreapp3.1\PedidoApp.Domain.dll
+C:\Users\Eduardo\source\repos\PedidoApp\PedidoApp.Data\bin\Debug\netcoreapp3.1\PedidoApp.Domain.pdb
+C:\Users\Eduardo\source\repos\PedidoApp\PedidoApp.Data\obj\Debug\netcoreapp3.1\PedidoApp.Data.csproj.CopyComplete
