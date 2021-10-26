@@ -13,7 +13,7 @@ namespace PedidoApp.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching","otro","otro 2"
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching","otro","otro 2","otro 3"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
