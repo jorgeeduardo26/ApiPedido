@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VR5amIPu3j1sEA+IcQSlf/FBDZG+DksVVl5LvEE2b0vI0RqCpsgpHheMtbx7cEztg3GjA+5SnkTsuoQ3/Ld1iw==",
+  "dgSpecHash": "Undp5ZobPIPmT5QtChwkwQdWLugejFOklkuPIQuDDrY6n5MrwqrjbHnd80wy5/USORM+PLz8OijO3jRMW+HCvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eduardo\\source\\repos\\PedidoApp\\PedidoApp.Domain\\PedidoApp.Domain.csproj",
+  "projectFilePath": "C:\\GitHub\\ApiPedido\\PedidoApp\\PedidoApp.Domain\\PedidoApp.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

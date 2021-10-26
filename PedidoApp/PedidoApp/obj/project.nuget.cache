@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c0t1WFeM5pJhveCcOwMnOy5Yij4eeHNYPRFB2pjNxh2DkMlX0goMj/62gYesOJg6V0IONUVcark+tN8aXyQIyA==",
+  "dgSpecHash": "l4zbOBvyDY1piNBFfg+fR+GU1Ar0o4K23NekKUiBs1OPP4BNsbkIdMJhYy5ocy+gENTe7kFIIbDL7cdRzQuJtA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eduardo\\source\\repos\\PedidoApp\\PedidoApp\\PedidoApp.csproj",
+  "projectFilePath": "C:\\GitHub\\ApiPedido\\PedidoApp\\PedidoApp\\PedidoApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eduardo\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.2\\microsoft.aspnetcore.jsonpatch.3.1.2.nupkg.sha512",
     "C:\\Users\\Eduardo\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.2\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.2.nupkg.sha512",
