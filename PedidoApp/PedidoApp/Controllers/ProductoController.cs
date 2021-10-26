@@ -13,7 +13,8 @@ namespace PedidoApp.Controllers
     [ApiController]
     public class ProductoController : ControllerBase
     {
-        private readonly IProducto _producto;      
+        private readonly IProducto _producto;
+        private readonly bool valor = false;
 
         public ProductoController(IProducto producto)
         {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MWmST1C2MKiXnlomMaPEazQhSTQJMg4Tjxa1g+nc8+oCJ7rIxy6GLgWM0rDgxghdauyUIg6wSS9ZiwoRnDwi8A==",
+  "dgSpecHash": "h78Wn/u1L0J9kaKgWvDgyk+SRnvZDvOgDJSrCq/iWMe+e9EfGLu6qmVbnGHjTZSGvoabnpIrBif56DAZRAK4mw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eduardo\\source\\repos\\PedidoApp\\PedidoApp.Data\\PedidoApp.Data.csproj",
+  "projectFilePath": "C:\\GitHub\\ApiPedido\\PedidoApp\\PedidoApp.Data\\PedidoApp.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eduardo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Eduardo\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
